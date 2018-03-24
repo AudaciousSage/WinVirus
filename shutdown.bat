@@ -1,2 +1,2 @@
 @echo off
-shutdown -h now
+shutdown/s
